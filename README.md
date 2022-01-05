@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @panadesign
+- 👋 Hi, I’m @jeremyCharpentier
 - 👀 I’m interested in music, videogame, photography and skateboard
 - 🌱 I’m currently learning JAVA
 
